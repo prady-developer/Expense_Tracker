@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About Expense Tracker
 
 Expense Tracker is a clean and simple responsive web application designed for efficient expense management. Originally developed with Angular 4, the application has been continuously modernized to leverage the latest Angular features and capabilities.
@@ -136,3 +137,7 @@ If firebase is not initialized
 
 Last but not least deploy it to firebase
 `firebase deploy`
+=======
+# Expense_Tracker
+Expense Tracker is a clean and simple responsive web application designed for efficient expense management. Originally developed with Angular 4, the application has been continuously modernized to leverage the latest Angular features and capabilities.
+>>>>>>> 10c7ac8d58b9999d5c3142335ee51d082c210bf3
